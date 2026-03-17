@@ -1,4 +1,4 @@
-# LPR Eye - Frontend Showcase 🚗🔍
+# LPR Eye - Frontend Showcase 
 
 โปรเจกต์ระบบตรวจจับป้ายทะเบียนรถแบบ Real-time (Senior Project) ที่เน้นการจัดการข้อมูลฝั่งหน้าบ้านด้วยเทคโนโลยีระดับสูง
 
